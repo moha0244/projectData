@@ -30,7 +30,7 @@ if selected == "Main":
     col1, col2 = st.columns(2)
 
     with col1:
-
+        st.markdown("### select one FTV")
         ftv = st.selectbox(" Select FTV:", ["50002", "55001"], index=1)
         test_type = st.selectbox(" Select Test Type:", ["F", "R", "S", "T"], index=0)
         test_number = st.text_input("Test Number:", max_chars=4)
