@@ -83,14 +83,14 @@ elif selected == "Clear Media":
     st.title(" Media Clearing")
     col1, col2 = st.columns(2)
     with col1:
-        if st.button("🗑 Clear IADS Disk"):
+        if st.button(" Clear IADS Disk"):
             clear_media("IADS")
-        if st.button("🗑 Clear Video Disk"):
+        if st.button(" Clear Video Disk"):
             clear_media("Video")
     with col2:
-        if st.button("🗑 Clear AFDX Drive"):
+        if st.button("Clear AFDX Drive"):
             clear_media("AFDX")
-        if st.button("🗑 Clear TTP Disk"):
+        if st.button(" Clear TTP Disk"):
             clear_media("TTP")
 
 # Clean D Drive
