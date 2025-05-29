@@ -13,5 +13,5 @@ Cela ouvrira automatiquement l'application dans votre navigateur, à l'adresse :
 http://localhost:8501
 
 ###  Accéder à la version en ligne (hébergée):
-Si vous ne souhaitez pas l’exécuter en local, vous pouvez directement accéder à la version hébergée ici : https://mainpy-gxutzpuewuudubufx4myyr.streamlit.app/
+Si vous ne souhaitez pas l’exécuter en local, vous pouvez directement accéder à la version hébergée ici : https://mainpy-bdyfs9rah3m53kahhdhwke.streamlit.app/
 
